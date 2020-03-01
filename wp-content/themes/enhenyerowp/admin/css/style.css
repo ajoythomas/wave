@@ -1,0 +1,6 @@
+#setting-error-tgmpa {display: inline-block;width: 96%;}
+body #redux_rAds, .redux-dev-mode-notice-container, body.wp-admin .rAds .mgv1_1, body.wp-admin .rAds {display: none !important;}
+.so-panels-dialog.so-panels-dialog-prebuilt-layouts .so-content .layout .layout-inside .description {height: auto !important;}
+.postbox-container #taxonomy-snx_portfolio_tax::before {content: "You can add category from the categories menu..";visibility: visible;}
+.postbox-container #taxonomy-snx_portfolio_tax {height: 40px;visibility: hidden;}
+.so-content.panel-dialog .siteorigin-widget-preview {display: none !important;}
